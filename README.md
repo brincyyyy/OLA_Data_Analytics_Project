@@ -25,16 +25,6 @@ To build an interactive Power BI dashboard that identifies patterns and performa
 
 ---
 
-## 🔍 Key Insights
-
-- 📅 **Peak Booking Days:** Highest number of bookings occurred on weekends, especially Fridays and Saturdays.
-- ⏰ **Popular Time Slots:** Most bookings were made between 10 AM to 2 PM.
-- 📍 **Top Locations:** Location X and Y had the most frequent bookings.
-- ❌ **Cancellations:** 12% of total bookings were cancelled, with the majority occurring during peak hours.
-- 📈 **Growth Opportunity:** Loyalty users book more frequently and cancel less often—suggesting a focus area for marketing.
-
----
-
 ## 🛠 Tools & Tech Used
 
 - **Power BI** – Interactive dashboard development
@@ -42,15 +32,6 @@ To build an interactive Power BI dashboard that identifies patterns and performa
 - **DAX** – Measures and KPIs
 - **SQL** – Data analysis
 
----
-
-## 📆 Time Intelligence
-
-A separate Date Table was created to allow dynamic slicing by:
-- Year
-- Quarter
-- Month
-- Day
 
 This enables time-based comparisons and cumulative metrics.
 
