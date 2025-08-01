@@ -79,9 +79,10 @@ Feel free to fork the project and enhance it with:
 
 ## 🔗 Connect with Me
 
-Made with 💛 by [Your Name]  
 📧 Email: vazbrinceton@email.com  
+
 🔗 LinkedIn: www.linkedin.com/in/brincetonvaz
+
 🔗 GitHub: https://github.com/brincyyyy
 
 ---
