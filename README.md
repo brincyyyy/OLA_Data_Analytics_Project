@@ -21,7 +21,6 @@ To build an interactive Power BI dashboard that identifies patterns and performa
 | `Bookings.xlsx` | Original booking data for July 2024 |
 | `Images/` | Screenshots of the dashboard |
 | `SQL/kpi_queries.sql` | SQL logic behind the calculated KPIs |
-| `Docs/Data_Dictionary.md` | Explanation of each column and metric (optional) |
 
 ---
 
